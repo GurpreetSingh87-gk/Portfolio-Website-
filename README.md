@@ -6,7 +6,7 @@ This repository contains the complete source code and structural design for my p
 
 # 📸 Screenshot
 
-<img width="1891" height="884" alt="Image" src="https://github.com/user-attachments/assets/ac98e937-b9b8-4452-b084-ce9499cfd7b6" />
+<img width="1884" height="770" alt="Image" src="https://github.com/user-attachments/assets/a5ea770b-4d88-4c71-acbe-690992e81429" />
 
 ---
 
